@@ -22,7 +22,7 @@
 20. Process Mining: Data science in Action: https://www.coursera.org/learn/global-statistics
 15.	Bayesian Statistics: From Concept to Data Analysis: https://www.coursera.org/learn/bayesian-statistics
 16.	Practical Time Series Analysis: https://www.coursera.org/learn/practical-time-series-analysis
-17.	Introduction to Embedded Machine Learning	4.8/5	17 hours	Edge Impulse 
+17.	Introduction to Embedded Machine Learning	: https://www.coursera.org/learn/introduction-to-embedded-machine-learning
 18.	Improving your statistical inferences	4.9/5	28 hours	Eindhoven University of Technology
 19.	Data Science in Stratified Healthcare and Precision Medicine	4.6/5	17 hours	University of Edinburgh
 20.	Machine Translation	4.5/5	27 hours	Karlsruhe Institute of Technology
