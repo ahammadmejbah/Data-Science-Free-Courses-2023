@@ -11,3 +11,4 @@
 9. Computational Neuroscience: https://www.coursera.org/learn/computational-neuroscience
 10. Introduction to Embedded Machine Learning: https://www.coursera.org/learn/introduction-to-embedded-machine-learning
 11. Experimentation for Improvement: https://www.coursera.org/learn/experimentation
+12. Introduction to Data Science: https://www.simplilearn.com/data-science-free-course-for-beginners-skillup
