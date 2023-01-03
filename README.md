@@ -1,4 +1,4 @@
-# Data-Science-Free-Courses-By-Coursera
+# Data-Science-Free-Courses-2023
 
 1. Doing Clinical Research: Biostatistics with the Wolfram Language: https://www.coursera.org/learn/clinical-research-biostatistics-wolfram
 2. Population Health: Predictive Analytics: https://www.coursera.org/learn/population-health-predictive-analytics
